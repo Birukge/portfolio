@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+</head>
+<h1>Biruk Gezahegn</h1>
+<hr>
+<h2>Work Experience</h2>
+<ul>
+    <li>Project Manager - Hab Hands, Luxembourg. <br>
+        Social Solidarity project funded by ESC- European Commission to help people in difficult conditions. <br>
+         oct/2022 - ongoing.</li>
+        <li> Volenteer at OUNI shop, Dudelange. <br>
+            Sept/2021- 2022</li>
+        </ul>
+        <hr>
+        <h2>Education History</h2>
+        <ul>
+            <li>Data Analysis - Inco Academy,<br>
+                April/2023 - ongoing. </li>
+        <li>
+            Web Development Bootcamp - Udemy,<br>
+            December/2022 - on going.</li>
+            <li>
+                Secondary School - Bashewam.
+            </li>
+            </ul>
+            <hr>
+            <H2> Relevant Skills  </H2>
+                <ul>
+                    <li>Microsoft office Proficiency</li>
+                    <li>Strong communication and customer service skills</li>
+                    <li>Web Development</li>
+                    <li>Analytical and detail-oriented</li>
+                    <li>Effective problem-soliving and multi-tasking </li>
+                    <li>Team Leading and Collaboration Experience</li>
+                    <li>Data Analysing</li>
+                </ul>
+                <hr>
+                <h2>Hobbies</h2>
+                <ul>
+                    <li>Music</li>
+                    <li>Meeting new people</li>
+                    <li>Discovering new culture</li>
+                     <li>Coding</li>
+                     <li>Work on solidarity projects</li>
+
+                </ul>
+                <h2>languages</h2>
+                <ul>
+                    <li>French </li>
+                    <li>English</li>
+                    <li>Amharic</li>
+
+                </ul>
+                <a href="contact-html">Contact me</a>
+<footer>resume@2022
+</footer>
+<body>
+    
+</body>
+</html>
