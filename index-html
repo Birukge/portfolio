@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <title>My Resume</title>
 </head>
+<body>
+    
 <h1>Biruk Gezahegn</h1>
 <hr>
 <h2>Work Experience</h2>
@@ -58,7 +60,6 @@
                 <a href="contact-html">Contact me</a>
 <footer>resume@2022
 </footer>
-<body>
-    
+
 </body>
 </html>
